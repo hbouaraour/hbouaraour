@@ -62,7 +62,7 @@
 
 <p align="center">
 <a>
-     <img src="https://github-profile-trophy.vercel.app/?username=BH0791&theme=gruvbox">
+     <img src="https://github-profile-trophy.vercel.app/?username=hbouaraour&theme=gruvbox">
      </a>
 </p>
 <!--
