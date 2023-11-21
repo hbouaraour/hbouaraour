@@ -11,6 +11,14 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Ada](https://img.shields.io/badge/-ada-E34A86?style=flat-square&logo=ada)
+
+<div align="center">
+  <p align="center">
+     <a href="https://github.com/dawidolko?tab=repositories">
+          <img src="https://skillicons.dev/icons?i=java,cpp,css,html,git,github,vscode,sqlite,powershell,maven,linkedin,idea,gradle,azul" />
+     </a>
+  </p>
+</div>
 <!--
 **hbouaraour/hbouaraour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
