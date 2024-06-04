@@ -2,6 +2,7 @@
 ### ⚡ Technologies
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=kotlin)
 ![Xml](https://img.shields.io/badge/Xml-14BF96?style=flate)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=f&logo=android&logoColor=black)
