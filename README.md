@@ -47,11 +47,6 @@
 
 </p>
 
-<p align="center">
-<a>
-     <img src="https://github-profile-trophy.vercel.app/?username=hbouaraour&theme=gruvbox">
-     </a>
-</p>
 <!--
 **hbouaraour/hbouaraour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
